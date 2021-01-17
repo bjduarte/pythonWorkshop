@@ -46,10 +46,6 @@ def main():
   test4 = compute_my_grade(82)
   print("Your grade is: " + str(test4))
 
-
-
-
-python assignment1.python
   print("Test 5: Testing input 65")
   print("Expected output: Your grade is: D")
   print("Your output: ")
