@@ -12,7 +12,7 @@ print(myDict)
 
 # removing the key and value, "name"
 nameToRemove = myDict['name']
-del(myDict["name"])
+del(myDict['name'])
 print(nameToRemove, 'has been removed!')
 print(myDict)
 
